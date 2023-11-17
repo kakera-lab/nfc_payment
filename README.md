@@ -5,7 +5,7 @@
 - kakera 主催のイベントの集金を少し便利にするためのシステム。
 - Zenn の記事:
 - 関連記事: https://zenn.dev/kakera_lab/articles/f74c068e67a600
-- 関連記事: https://github.com/kakera-lab/nfc_cardtrade.git
+- 関連記事: https://github.com/kakera-lab/nfc_cardtrade
 
 ## 中身
 
