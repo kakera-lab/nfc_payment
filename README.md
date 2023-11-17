@@ -3,7 +3,7 @@
 ## 用途
 
 - kakera 主催のイベントの集金を少し便利にするためのシステム。
-- Zenn の記事:
+- Zenn の記事: https://zenn.dev/kakera_lab/articles/59a067e3fc305f
 - 関連記事: https://zenn.dev/kakera_lab/articles/f74c068e67a600
 - 関連記事: https://github.com/kakera-lab/nfc_cardtrade
 
